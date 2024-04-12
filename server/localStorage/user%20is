@@ -1,0 +1,9 @@
+{
+  _id: new ObjectId('65f04e2ac7957e9b88cafd8a'),
+  userName: 'Rajat',
+  emailAddress: 'mohitagrawal1801@gmail.com',
+  Password: '$2b$10$VMiRYfcJ4KXbopYbetKIs.kP0blQ0YK8BE8v9GmbIw5au0SdtkqPe',
+  isVerified: false,
+  __v: 0,
+  otp: 167344
+}
